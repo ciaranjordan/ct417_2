@@ -19,7 +19,7 @@
         <dependency>
             <groupId>com.github.ciaranjordan</groupId>
             <artifactId>ct417_1</artifactId>
-            <version>SNAPSHOT</version>
+            <version>-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
